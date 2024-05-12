@@ -1,0 +1,87 @@
+// * Remove footer for devices with less width
+footer{
+	display: none;
+}
+/* CSS for resposiveness on Index page
+ * Style for Phones
+ */
+.home-article{
+
+}
+.home-article-text{
+	padding: 25px 2% 20px;
+	width: 90%;
+	font-size: 12pt;
+}
+.home-article-image{
+	padding: 0px 5%;
+	margin: 0;
+}
+
+#hero{
+	h1{
+		padding: 16px 0%;
+		width: 100%;
+		font-size: 18pt;
+	}
+	p{
+		padding: 0 4%;
+		font-size: 13pt;
+		width: 90%;
+	}
+}
+#hero{
+	padding: 6% 2%;
+}
+.logo-big{
+	width: 200px;
+	height: 55px;
+}
+
+// Header Items
+#header-boards #search{
+	width: 34px;
+	background-position: center;
+}
+#header-boards #profile span{
+	display: none;
+}
+#header-boards #boards{
+	font-size: 0px;
+	width: 0px;
+}
+#header-boards #logo{
+	width: 70px;
+}
+
+// Boards page
+.board{
+	width: 100%;
+}
+
+
+// board display page
+#board-ribbon{
+	/*height: 55px !important;
+	div{
+		display: block !important;
+		margin-left: 8px !important;
+	}*/
+}
+
+// popups
+#card_display_popup{
+	top: 5%;
+	left: 3%;
+	width: 94%;
+}
+/** Display the actions menu below information sections */
+#card_display_popup .popup-body #card_actions {
+	float: none;
+	width: 50%;
+	margin-left: 5%;
+}
+#card_display_popup .popup-body #card_info {
+	float: none;
+	width: 100%;
+}
