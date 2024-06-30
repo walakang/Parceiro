@@ -1,13 +1,15 @@
 # -walakang
 Parceiro is a Personal productivity tool
 
-its taylored mostly to my preferences and personal needs, more than a public app.
+It's taylored mostly to my preferences and personal needs, more than a public app.
 Anyway, i'll be glad to know it fits yours too.
 
 Based on a Fork of Shidil Eringas's Drello
 GUI took some ideas from George W Park Trello clone at Codepen/GitHub
-And some other functionalities come from GeekForGeeks demos and the good vibes of all those that openly share theirs ideas trough the qhole internet.
+And some other functionalities come from GeekForGeeks demos and the good vibes of all those that openly share theirs ideas trough the whole internet.
+
 ===
+
 First try on publishing a site in github.io
 I choose to change the app name/title as to avoid been tied to any existent platform or app out there
 About the name Parceiro
